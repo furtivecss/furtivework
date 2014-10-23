@@ -16,6 +16,10 @@ TODO
 
 MIT
 
+## Acknowledgements
+
+Based off of <https://github.com/jxnblk/basswork>.
+
 ## Contributing
 
 1. Fork it
